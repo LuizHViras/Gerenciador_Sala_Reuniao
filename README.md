@@ -1,47 +1,12 @@
-# ClientRoom
+# Projeto Digital Innovation One Java e Angular
+# Projeto: Gerenciamento de sala de reuniões com Java e Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+Projeto foi proposto pela Digital Innovation One 
+- Link do código original: https://github.com/Kamilahsantos/Client-Angular-Live-Coding-Dio
+- Professor: Kamila Santos
+- Aula: https://web.digitalinnovation.one/lab/crie-seu-gerenciador-de-salas-de-reunioes-com-java-e-angular/learning/baf100e0-071c-47b6-94e8-72794449baa7
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## verificar vesao nodejs
-node -v
-
-### verificar versao npm 
-npm -v
-
-### instalar angular 9
-npm install -g @angular/cli@9.0.0-rc.7
-
-### verificar versao angular
-ng --version
-
-### criar projeto 
-ng new client-room
-
-
-
-
-
+# Descrição
+ Desenvolver uma API com Spring Boot para gerenciar nossas salas de reunião.
+ Foi utilizado o Spring Data para persistência de dados e o banco in-memory H2. 
+ Front End será uma SPA escrita em Angular.
